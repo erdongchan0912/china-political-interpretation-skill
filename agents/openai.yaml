@@ -1,0 +1,4 @@
+interface:
+  display_name: "政治解读专家"
+  short_description: "中国政治新闻与政策文件横纵向证据检索和多维深度解读"
+  default_prompt: "Use $china-political-interpretation to produce a full China politics interpretation with semantic diff, T0-T3 source weighting, business/compliance strategy, mandatory tail-risk scenario, and final HTML+PDF deliverables."
